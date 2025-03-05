@@ -23,7 +23,7 @@ Um script avançado de escaneamento de portas escrito em Python, projetado para 
 # How to Use
   - Pre-requisites
     - Python 3.x
-    - Required libraries:socket, argparse, csv, matplotlib, threading, queue, stem, requests, reportlab.
+    - Required libraries: socket, argparse, csv, matplotlib, threading, queue, stem, requests, reportlab.
    
 # Usage examples
   - Basic
